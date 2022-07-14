@@ -1,0 +1,5 @@
+Remarque sur la compilation des exemples (en ligne de commande)
+
+gcc Serveur.c -o Serveur.exe -lws2_32
+
+gcc Client.c -o Client.exe -lws2_32

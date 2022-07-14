@@ -1,0 +1,8 @@
+Guessing Number : 
+Serveur génére un nombre aléatoire 
+Client essaie de le trouver 
+
+-
+
+Ici on a que la connexion 
+Amélioration à faire : Multithreading => Permet de plusieurs client de jouer
